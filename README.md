@@ -1,2 +1,0 @@
-# AGRI-POSE
-Permanent repository
