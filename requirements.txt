@@ -1,0 +1,4 @@
+# Direct dependencies; Ultralytics integration is described in README.md.
+torch
+numpy
+einops

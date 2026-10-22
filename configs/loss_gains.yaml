@@ -1,0 +1,7 @@
+# Joint detection and keypoint loss coefficients.
+box: 7.5
+cls: 0.5
+dfl: 1.5
+pose: 12.0
+kobj: 2.0
+pose_dfl: 0.5
